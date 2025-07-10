@@ -46,7 +46,7 @@ const Navigation = () => {
             className="text-xl font-bold text-portfolio-navy cursor-pointer"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
           >
-            Jane Doe
+            Mega Putri Aulia
           </div>
 
           {/* Desktop Navigation */}

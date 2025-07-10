@@ -42,7 +42,7 @@ const Contact = () => {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-12">
             <a
-              href="mailto:jane.doe@email.com"
+              href="mailto:megaputriauliaindo@gmail.com"
               className="flex items-center space-x-2 px-6 py-3 border-2 border-portfolio-blue text-portfolio-blue rounded-lg hover:bg-portfolio-blue hover:text-white transition-all duration-300 font-medium"
             >
               <Mail className="w-5 h-5" />
@@ -50,7 +50,7 @@ const Contact = () => {
             </a>
             
             <a
-              href="https://github.com/janedoe"
+              href="https://github.com/justmegan"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 px-6 py-3 border-2 border-portfolio-blue text-portfolio-blue rounded-lg hover:bg-portfolio-blue hover:text-white transition-all duration-300 font-medium"
@@ -60,7 +60,7 @@ const Contact = () => {
             </a>
             
             <a
-              href="https://linkedin.com/in/janedoe"
+              href="https://linkedin.com/in/megapaulia"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 px-6 py-3 border-2 border-portfolio-blue text-portfolio-blue rounded-lg hover:bg-portfolio-blue hover:text-white transition-all duration-300 font-medium"

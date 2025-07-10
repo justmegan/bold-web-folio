@@ -2,17 +2,12 @@
 const Experience = () => {
   const experiences = [
     {
-      role: "Software Development Intern",
-      company: "TechCorp Solutions",
-      period: "Summer 2024",
-      achievement: "Built an interactive dashboard using Flask and PostgreSQL, improving data visualization efficiency by 40%"
+      role: "Web Developer Intern",
+      company: "LimeLight Renhold AS",
+      period: "May 2025 - Present",
+      achievement: "Built a responsive website for a cleaning service company using React + Vite"
     },
-    {
-      role: "Data Analytics Intern", 
-      company: "DataInsights Inc",
-      period: "Summer 2023",
-      achievement: "Developed automated reporting system using Python and SQL, reducing manual work by 60%"
-    },
+   
     {
       role: "Web Development Freelancer",
       company: "Self-Employed",
@@ -29,7 +24,7 @@ const Experience = () => {
             Experience
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            My professional journey in software development and data analytics
+            My journey in web development and data analytics
           </p>
         </div>
 

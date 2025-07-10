@@ -7,26 +7,30 @@ import { Button } from '@/components/ui/button';
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Analytics Dashboard",
-      description: "Built a comprehensive dashboard to track sales performance and customer behavior patterns.",
-      tech: ["React", "Python", "PostgreSQL", "Chart.js"],
-      liveDemo: "#",
-      sourceCode: "#"
+      title: "Secondhand Book Selling Web App",
+      description: "Built a comprehensive web-based app for selling or giving away books using parallax scrolling.",
+      tech: ["HTML", "CSS", "JavaScript"],
+      liveDemo: "https://justmegan.github.io/parallax-scrolling/",
+      sourceCode: "https://github.com/justmegan/parallax-scrolling"
     },
+   
+
     {
-      title: "Task Management Web App",
-      description: "Developed a collaborative task management platform with real-time updates and team features.",
-      tech: ["Node.js", "Express", "MongoDB", "Socket.io"],
-      liveDemo: "#",
-      sourceCode: "#"
+      title: "Clickable Flip Cards",
+      description: "Developed a CSS 3D clickable flip cards.",
+      tech: ["HTML", "CSS"],
+      liveDemo: "https://justmegan.github.io/flip-cards/",
+      sourceCode: "https://github.com/justmegan/flip-cards"
     },
+
     {
-      title: "Student Performance Predictor",
-      description: "Created a machine learning model to predict student academic outcomes using historical data.",
-      tech: ["Python", "Pandas", "Scikit-learn", "Flask"],
-      liveDemo: "#",
-      sourceCode: "#"
+      title: "My Todo App",
+      description: "Created a simpe to-do-list app for daily tasks",
+      tech: ["React", "Vite"],
+      liveDemo: "https://justmegan.github.io/my-todo-app/",
+      sourceCode: "https://github.com/justmegan/my-todo-app"
     },
+   
     {
       title: "Weather Data Visualization",
       description: "Built an interactive web application to visualize climate patterns and weather trends.",

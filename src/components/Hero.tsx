@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="container-max section-padding text-center">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold text-portfolio-navy mb-6">
-            Hi, I'm <span className="text-portfolio-blue">Jane Doe</span>
+            Hi, I'm <span className="text-portfolio-blue">Mega Putri Aulia</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
@@ -32,7 +32,7 @@ const Hero = () => {
             
             <div className="flex space-x-4">
               <a
-                href="mailto:jane.doe@email.com"
+                href="mailto:megaputriauliaindo@gmail.com"
                 className="p-3 rounded-full bg-white shadow-md hover:shadow-lg transition-all duration-300 hover:scale-110"
                 aria-label="Email"
               >
@@ -40,7 +40,7 @@ const Hero = () => {
               </a>
               
               <a
-                href="https://github.com/janedoe"
+                href="https://github.com/justmegan"
                 className="p-3 rounded-full bg-white shadow-md hover:shadow-lg transition-all duration-300 hover:scale-110"
                 aria-label="GitHub"
                 target="_blank"
@@ -50,7 +50,7 @@ const Hero = () => {
               </a>
               
               <a
-                href="https://linkedin.com/in/janedoe"
+                href="https://linkedin.com/in/megapaulia"
                 className="p-3 rounded-full bg-white shadow-md hover:shadow-lg transition-all duration-300 hover:scale-110"
                 aria-label="LinkedIn"
                 target="_blank"

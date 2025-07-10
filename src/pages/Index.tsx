@@ -23,7 +23,7 @@ const Index = () => {
         <div className="container-max px-6 lg:px-12">
           <div className="text-center">
             <p className="text-gray-300">
-              © 2024 Jane Doe. Built with React and Tailwind CSS.
+              © 2025 Mega Putri Aulia
             </p>
           </div>
         </div>
